@@ -1,4 +1,4 @@
-# Klee desktop friend
+# Desktop friend
 ## Wprowadzenie:
 Aplikacja wyświetla na ekranie postać, która chodzi po pasku zadań i wchodzi w interakcje z użytkownikiem. 
 
